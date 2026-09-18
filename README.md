@@ -121,8 +121,9 @@ reflection in `process/atmosphere-reflection.md`.
 
 ## Submission status
 
-- Live deployed link: not applicable — this is a native desktop app,
-  not a web app, so there's no URL to deploy to.
+- Live deployed link: there's no URL, since this is a native app, not a
+  web page. Standalone download instead: [Magnifying Glass v0.2.0 (macOS, Apple Silicon)](https://github.com/kliddle29/Tool-Build-Atmosphere/releases/download/v0.2.0/Magnifying-Glass-macOS-arm64.zip) — unzip and open `Magnifying Glass.app`. Unsigned, so
+  right-click → Open on first launch.
 - GitHub repository: this one.
 - Refined Figma frames: `process/screenshots/instrument-panel-v2.png`
   and `process/screenshots/signature-interaction-v2.png`.
