@@ -128,4 +128,4 @@ reflection in `process/atmosphere-reflection.md`.
 - Refined Figma frames: `process/screenshots/instrument-panel-v2.png`
   and `process/screenshots/signature-interaction-v2.png`.
 - Reflection: `process/atmosphere-reflection.md`.
-- Screen recording of the core loop: not yet recorded.
+- Screen recording of the core loop: [core-loop-demo.mov](https://github.com/kliddle29/Tool-Build-Atmosphere/releases/download/v0.2.0/core-loop-demo.mov) (29 seconds).
