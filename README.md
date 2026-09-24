@@ -108,6 +108,7 @@ reflection in `process/atmosphere-reflection.md`.
 | Spatial rhythm | Unchanged: one circle, nothing around it. |
 | Color | The lens edge's decorative ring went from a 5-hue rainbow to one accent (teal, `#64ffda`, the app's existing brand color) — a rainbow ring reads as decoration, and Instrument Panel's case was restraint. |
 | Motion + timing | Toggle on/off now fades over 150ms — the only animation anywhere in the tool, and deliberately *not* applied to the not-sensing state, so a failure still lands instantly instead of easing in. |
+| Focus / depth | Added a soft vignette just inside the rim, darkening toward the edge. The zoomed content used to cut off hard against the boundary; the falloff keeps attention on the lens itself instead of the edge. |
 
 ## Known limitations
 

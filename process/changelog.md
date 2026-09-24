@@ -65,3 +65,11 @@ Reword anything below that doesn't sound like you before submitting.*
   problem. The fade deliberately does not apply to the not-sensing
   state — an error landing instantly is itself part of what makes it
   read as an error.
+
+- **Vignette added to the lens edge.** The zoomed content used to cut
+  off hard against the rim. Added a soft radial darkening just inside
+  the boundary so the eye settles toward the center instead of
+  catching on the edge first, the same reason a real loupe's field of
+  view softens at the boundary instead of stopping abruptly. Off in
+  the not-sensing state along with the gloss and edge ring, same as
+  those.

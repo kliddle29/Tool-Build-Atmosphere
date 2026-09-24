@@ -24,6 +24,14 @@ the emotional experience? (5–8 sentences)
 > small on paper, three CSS and timing changes, but it's the difference
 > between a tool that happens to work and one that was actually
 > finished.
+>
+> One more thing changed after that first pass: the zoomed content
+> used to cut off hard right at the edge, so your eye caught the
+> boundary before it caught what was actually magnified. A soft
+> vignette just inside the rim fixed that. Now the edge fades instead
+> of stopping, and attention centers on the lens itself instead of
+> drifting to where it ends. It's a small change, but it's the one
+> that made the tool feel finished instead of just correct.
 
 ## Dignity audit
 
